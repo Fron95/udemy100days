@@ -1,1 +1,3 @@
 Git --version
+Git second line
+Git third line
